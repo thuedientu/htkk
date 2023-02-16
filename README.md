@@ -1,17 +1,12 @@
-# ỨNG DỤNG HTKK  
+# ỨNG DỤNG HTKK - HỖ TRỢ KÊ KHAI THUẾ
 
-| Ngày phát hành	 | Phiên bản	 | Tải bộ cài đặt	  |  Hướng dẫn cài đặt	 |  Hướng dẫn sử dụng	 | Nội dung nâng cấp  |
-|---|---|---|---|---|---|
-|  15/02/2023 |  5.0.1 |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
+![image](htkk.jpg)
 
+- Tài liệu hướng dẫn cài đặt [Tải về](https://github.com/thuedientu/htkk/releases/download/v5.0.1/Tailieu_HD.cai.dat.HTKK.v4.2.pdf)
+- Tài liệu HƯỚNG DẪN SỬ DỤNG ỨNG DỤNG HỖ TRỢ KÊ KHAI (Dành cho người nộp thuế) Phiên bản HTKK 5.x.x - Trước TT80 [Tải về](https://github.com/thuedientu/htkk/releases/download/v5.0.1/TaiLieu_HDSD_HTKK_TruocTT80_5.0.x.pdf)
+- Tài liệu HƯỚNG DẪN SỬ DỤNG ỨNG DỤNG HỖ TRỢ KÊ KHAI (Dành cho người nộp thuế) Phiên bản HTKK 5.x.x - TT80 [Tải về](https://github.com/thuedientu/htkk/releases/download/v5.0.1/TaiLieu_HDSD_HTKK_TT80_V5.x.pdf)
 
-GIỚI THIỆU
-
-
-http://www.gdt.gov.vn/wps/portal/home/hotrokekhai
-
+# GIỚI THIỆU
 
 ## NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 5.0.1 
 
@@ -58,3 +53,5 @@ http://www.gdt.gov.vn/wps/portal/home/hotrokekhai
 3. Cập nhật tờ khai quyết toán thuế tài nguyên đối với dầu khí (02/TAIN-VSP)
 - Cập nhật định dạng nhập chỉ tiêu [28] – Giá tính thuế tài nguyên trong kỳ tính thuế: cập nhật định dạng cho phép nhập 6 số thập phân sau dấu phẩy
 - Cập nhật không hiển thị cảnh báo đỏ tại chỉ tiêu [30] – Số tiền thuế tài nguyên phải nộp trong kỳ tính thuế trong trường hợp sửa giá trị trong ngưỡng cho phép.
+
+http://www.gdt.gov.vn/wps/portal/home/hotrokekhai

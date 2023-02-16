@@ -2,9 +2,13 @@
 
 ![image](htkk.jpg)
 
+## TÀI LIỆU HƯỚNG DẪN
 - Tài liệu hướng dẫn cài đặt [Tải về](https://github.com/thuedientu/htkk/releases/download/v5.0.1/Tailieu_HD.cai.dat.HTKK.v4.2.pdf)
 - Tài liệu HƯỚNG DẪN SỬ DỤNG ỨNG DỤNG HỖ TRỢ KÊ KHAI (Dành cho người nộp thuế) Phiên bản HTKK 5.x.x - Trước TT80 [Tải về](https://github.com/thuedientu/htkk/releases/download/v5.0.1/TaiLieu_HDSD_HTKK_TruocTT80_5.0.x.pdf)
 - Tài liệu HƯỚNG DẪN SỬ DỤNG ỨNG DỤNG HỖ TRỢ KÊ KHAI (Dành cho người nộp thuế) Phiên bản HTKK 5.x.x - TT80 [Tải về](https://github.com/thuedientu/htkk/releases/download/v5.0.1/TaiLieu_HDSD_HTKK_TT80_V5.x.pdf)
+
+## TẢI VỀ
+Tải về các phiên bản [Tải về](https://github.com/thuedientu/htkk/releases)
 
 # GIỚI THIỆU
 
@@ -25,7 +29,7 @@
 
 
 
-## NỘI DUNG NÂNG CẤP HTKK 4.7.8
+### NỘI DUNG NÂNG CẤP HTKK 4.7.8
 
 1.	Nâng cấp bổ sung các mẫu biểu tờ khai quý theo Thông tư 80/2021/TT_BTC:
 -	Tờ khai phí, lệ phí và các khoản thu khác do cơ quan đại diện nước Cộng hòa Xã hội Chủ nghĩa Việt Nam ở nước ngoài thực hiện thu (01/PHLPNG)
@@ -42,9 +46,7 @@
 -	Cập nhật tờ khai quyết toán thuế thu nhập cá nhân (02/QTT-TNCN):
 -	Cập nhật chức năng kết xuất XML đủ dữ liệu thông tin Người ký đã nhập.
 
-
-
-## NỘI DUNG NÂNG CẤP HTKK 4.7.7
+### NỘI DUNG NÂNG CẤP HTKK 4.7.7
 
 1. Nâng cấp tờ khai quyết toán thuế thu nhập doanh nghiệp (03/TNDN) theo Thông tư 80/2021/TT-BTC:
 - Nâng cấp bổ sung chức năng kê khai tờ khai bổ sung thuế thu nhập doanh nghiệp (03/TNDN).
